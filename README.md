@@ -1,12 +1,22 @@
 # refmat
 refactoring materials
 - [x] SOLID http://blog.byndyu.ru/2009/10/solid.html
-- [ ] S - http://blog.byndyu.ru/2009/10/blog-post.html
-- [ ] O - http://blog.byndyu.ru/2009/10/blog-post_14.html
-- [ ] L - http://blog.byndyu.ru/2009/10/blog-post_29.html
-- [ ] I - http://blog.byndyu.ru/2009/11/blog-post_19.html
-- [ ] D - http://blog.byndyu.ru/2009/12/blog-post.html
-- [ ] SOLID(PHP) https://habrahabr.ru/post/208442/
-- [ ] SOLID(Ruby) https://practicingruby.com/articles/solid-design-principles
-- [ ] 
-- [ ] 
+  - [ ] S - http://blog.byndyu.ru/2009/10/blog-post.html
+  - [ ] O - http://blog.byndyu.ru/2009/10/blog-post_14.html
+  - [ ] L - http://blog.byndyu.ru/2009/10/blog-post_29.html
+  - [ ] I - http://blog.byndyu.ru/2009/11/blog-post_19.html
+  - [ ] D - http://blog.byndyu.ru/2009/12/blog-post.html
+  - [ ] PHP https://habrahabr.ru/post/208442/
+  - [ ] Ruby https://practicingruby.com/articles/solid-design-principles
+  - [ ] Ruby https://robots.thoughtbot.com/back-to-basics-solid
+  - [ ] http://www.slideshare.net/anildigital/solid-design-principles-in-ruby
+- [ ] CQRS
+  - [ ] CQRS http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
+    - [ ] http://blog.byndyu.ru/2014/05/blog-post.html
+  - [ ] http://www.slideshare.net/AlexanderByndyu/cqrs-36278020
+  - [ ] https://ru.wikipedia.org/wiki/CQRS
+  - [ ] http://percolator.io/posts/7-qcrs
+  - [ ] http://habrahabr.ru/post/268627/
+  - [ ] Command Query Separation https://www.rubyplus.com/articles/281
+  - [ ] https://en.wikipedia.org/wiki/Command%E2%80%93query_separation
+  - [ ] http://martinfowler.com/bliki/CommandQuerySeparation.html
