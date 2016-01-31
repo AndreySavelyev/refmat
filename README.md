@@ -28,3 +28,5 @@ refactoring materials
   - [ ] http://blog.byndyu.ru/2008/11/red-green-refactoring.html
   - [ ] https://habrahabr.ru/post/111095/
   - [ ] https://ru.wikipedia.org/wiki/Разработка_через_тестирование
+- [ ] DB 
+  - [ ] http://ruhighload.com/post/Работа+с+индексами+в+MySQL
