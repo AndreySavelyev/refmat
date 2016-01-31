@@ -20,3 +20,11 @@ refactoring materials
   - [ ] Command Query Separation https://www.rubyplus.com/articles/281
   - [ ] https://en.wikipedia.org/wiki/Command%E2%80%93query_separation
   - [ ] http://martinfowler.com/bliki/CommandQuerySeparation.html
+- [ ] Pair programming
+  - [ ] https://ru.wikipedia.org/wiki/Парное_программирование
+  - [ ] http://www.maxkir.com/sd/pairprog_RUS.htm
+  - [ ] https://events.yandex.ru/lib/talks/559/
+- [ ] TDD
+  - [ ] http://blog.byndyu.ru/2008/11/red-green-refactoring.html
+  - [ ] https://habrahabr.ru/post/111095/
+  - [ ] https://ru.wikipedia.org/wiki/Разработка_через_тестирование
